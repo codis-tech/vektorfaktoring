@@ -1,10 +1,10 @@
 /********** Template CSS **********/
 :root {
-    --primary: #355EFC;
-    --secondary: #E93C05;
-    --tertiary: #555555;
-    --light: #DFE4FD;
-    --dark: #011A41;
+    --primary: #09543B;   /*GREEN*/   /*355EFC - BLUE*/
+    --secondary: #E93C05; /*RED*/
+    --tertiary: #555555;  /*GRAY*/
+    --light: #E6F7F1;     /*GREEN-L* or #DDF7EE/ /*DFE4FD - BLUR-L*/
+    --dark: #011A41;      /*BLUE-D*/
 }
 
 .back-to-top {
@@ -222,7 +222,7 @@ h6,
 
 /*** Facts ***/
 .facts {
-    background: linear-gradient(rgba(53, 94, 252, .95), rgba(53, 94, 252, .95)), url(../img/bg.png);
+    background: linear-gradient(rgba(9, 84, 59, .95), rgba(9, 84, 59, .95)), url(../img/bg.png);
 }
 
 
@@ -238,7 +238,7 @@ h6,
     height: 50%;
     top: 0;
     left: 0;
-    background: linear-gradient(rgba(53, 94, 252, .95), rgba(53, 94, 252, .95)), url(../img/bg.png);
+    background: linear-gradient(rgba(9, 84, 59, .95), rgba(9, 84, 59, .95)), url(../img/bg.png); /* rgba(53, 94, 252, .95) BLUE */
     z-index: -1;
 }
 
