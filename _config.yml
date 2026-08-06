@@ -1,0 +1,5 @@
+defaults:
+  - scope:
+      path: "" # Applies to all files in your project
+    values:
+      title: "Vektor Faktoring - Otkup potraživanja; Receivables Purchase"
